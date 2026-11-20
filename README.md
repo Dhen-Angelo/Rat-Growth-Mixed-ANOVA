@@ -3,7 +3,7 @@
 ## Project Title
 **BIO2105 - Biostatistics Formative Assessment 11: Mixed-Design Repeated Measures ANOVA Using R**
 
-**Authors:**  Gamido, Dhen Angelo | Domingo, Margaret | Ferrer, Phoebe | Ayap, Princess | Pepito, Yvonna (Section 4)
+**Authors:**  Gamido, Dhen Angelo | Domingo, Margaret | Ferrer, Phoebe Anne | Ayap, Princess Amberlin Mae | Pepito, Yvonna Roselle (Section 4)
 
 ## Research Objectives
 The primary objective of this study is to evaluate whether rat body weight differs significantly across three experimental treatment groups (**Control**, **Thiouracil**, and **Thyroxin**) and across five weekly measurement occasions (**Week 0 to Week 4**)[cite: 1, 2]. Specifically, this analysis investigates whether the pattern of body weight change over time depends on the treatment administered (**Treatment × Time Interaction**)[cite: 1, 15].
